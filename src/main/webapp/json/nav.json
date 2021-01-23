@@ -1,0 +1,15 @@
+[
+  {
+    "text" : "职工工资管理",
+    "children" :[
+      {
+        "text" : "职工工资查询",
+        "url" : "http://localhost:8080/Gradle___org_example___workers_salary_1_0_SNAPSHOT_war/Worker/list.do"
+      },
+      {
+        "text" : "添加职工工资信息",
+        "url" : "http://localhost:8080/Gradle___org_example___workers_salary_1_0_SNAPSHOT_war/Worker/add.do"
+      }
+    ]
+  }
+]

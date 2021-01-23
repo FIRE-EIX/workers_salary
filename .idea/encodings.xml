@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/style.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/easyui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/img" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/jquery/jquery.easyui.min.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/jquery/jquery.easyui.mobile.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/jquery/jquery.min.js" charset="UTF-8" />
+  </component>
+</project>
